@@ -11,3 +11,9 @@
 *.lai
 *.la
 *.a
+
+/ogl-dx-micro-fw.layout
+/Makefile.win
+/ogl-dx-micro-fw.dev
+/Objects
+/Output
