@@ -9,3 +9,5 @@ Used keys:
 * Esc - exit the application
 * F1  - switching full screen mode
 * F2  - switching the renderer (OpenGL or DirectX)
+
+Details: http://www.pixel-tyumen.ru/works/cpp-opengl-directx/
